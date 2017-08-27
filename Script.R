@@ -37,7 +37,7 @@ summary(full)
 
 
 
-#Dealing with missing values of Emabarked and Fare 
+#Dealing with missing values of Embarked and Fare 
 
 
 #Viewing missing values in Embarked
