@@ -215,7 +215,7 @@ Deckdata <- data.frame( FamilyID = colnames(SurnameDeck), Deck = rownames(Surnam
 summary(full$DeckInitial)
 
 
-#Creating a new variable to set familyids with their correponding decks from Deckdata
+#Creating a new variable to set familyids with their corresponding decks from Deckdata
 #this is done using the bind function 
 
 
